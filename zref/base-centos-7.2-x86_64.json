@@ -142,9 +142,9 @@
       "overwrite":     true,
       "insecure":      true,
       "options": [
-				"--computerName", "base",
-				"--diskMode",     "thin"
-			]
+        "--computerName", "base",
+        "--diskMode",     "thin"
+      ]
     }
   ],
   "provisioners": [
